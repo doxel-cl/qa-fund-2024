@@ -2,6 +2,10 @@ ul{
     display: flex;
     justyfy-content: space-around;
 }
-li{
-    list-style-type: none;
+a{
+    color:red;
+}
+}
+*{
+    background-color: aliceblue;
 }
